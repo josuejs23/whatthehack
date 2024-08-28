@@ -8,7 +8,7 @@ const Index = ({ pets }) => {
 
   return (
     <>
-
+      <h1>Josue Ramon Zorrilla Peña</h1>
       {/* TODO: Display Hours component */}
       <Hours/>
       {/* Create a card for each pet */}
